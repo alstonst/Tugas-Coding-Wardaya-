@@ -1,5 +1,5 @@
 Tugas-Coding-Wardaya
-2048 by Alston and Hudza
+2048 by Alston and Hudzaifah
 
 Arrow / WASD keys to move,
 Q to quit
